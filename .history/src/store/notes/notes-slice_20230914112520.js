@@ -1,0 +1,3 @@
+export cosnt noteSlide = createSlice({
+    
+})
